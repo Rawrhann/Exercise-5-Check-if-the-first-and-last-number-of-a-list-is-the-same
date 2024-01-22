@@ -4,3 +4,8 @@
 first_list = [10, 20, 30, 40, 10]
 second_list = [75, 65, 35, 75, 30]
 
+if first_list[0] - first_list[4] == 0:
+    print("True")
+else:
+    print("False")
+

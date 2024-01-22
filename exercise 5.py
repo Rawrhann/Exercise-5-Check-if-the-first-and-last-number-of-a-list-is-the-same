@@ -9,3 +9,7 @@ if first_list[0] - first_list[4] == 0:
 else:
     print("False")
 
+if second_list[0] - second_list[4] == 0:
+    print("True")
+else:
+    print("False")
